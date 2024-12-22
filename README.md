@@ -1,3 +1,1 @@
 # hyprdots
-# hyprdots
-# hyprdots
