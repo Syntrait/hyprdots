@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cp -r ~/.config/hypr/ .
+cp -r ~/.config/waybar/ .
